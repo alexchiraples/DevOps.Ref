@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [devops_ref]
+    WITH PASSWORD = N'ldbitWgCkjq5pn`coOiktblNmsFT7_&#$!~<x|!ffzbjwg{h', SID = 0x9EE5AEC0B8696042B327C20E9C94C6FC, DEFAULT_DATABASE = [DevOps_Ref], DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
+
